@@ -1,0 +1,7 @@
+{
+  "name": "Capture Studio – Premium 3D Photography",
+  "description": "High-end 3D cinematic photography studio website and booking platform for Capture Studio, Gaindatola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

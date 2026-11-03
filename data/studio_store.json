@@ -1,0 +1,871 @@
+{
+  "settings": {
+    "studioName": "CAPTURE STUDIO",
+    "tagline": "Turning Your Precious Moments Into Timeless Memories.",
+    "address": "In Front of Police Station, Gaindatola",
+    "primaryPhone": "+91 9131537800",
+    "secondaryPhone": "+91 9993522453",
+    "whatsappNumber": "919131537800",
+    "email": "capturestudiogaindatola@gmail.com",
+    "businessHours": "Monday – Sunday: 9:00 AM – 9:00 PM",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14878.502984180416!2d80.8!3d21.15!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a29486c9d749451%3A0xb3280c25cf62a93!2sGaindatola%2C%20Chhattisgarh!5e0!3m2!1sen!2sin!4v1700000000000",
+    "stats": {
+      "weddingsCaptured": 450,
+      "happyClients": 1250,
+      "eventsCovered": 780,
+      "yearsExperience": 12
+    },
+    "advancePaymentEnabled": true,
+    "advanceAmount": 2000,
+    "razorpayKeyId": "rzp_test_CaptureStudioKey"
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "slug": "wedding-photography",
+      "title": "Wedding Photography",
+      "category": "wedding",
+      "shortDescription": "Grand royal wedding rituals, timeless bridal portraits, and emotional mandap celebrations captured in cinematic detail.",
+      "fullDescription": "Our signature wedding photography captures the grandeur, emotional resonance, and cultural richness of Indian weddings. From sacred varmala moments to vidai tears, we craft heirloom visuals that tell your love story across generations.",
+      "heroImage": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹35,000",
+      "features": [
+        "Multi-camera synchronized coverage",
+        "Dedicated bride & groom prime lens team",
+        "Drone aerial perspective (venue & baraat)",
+        "Unlimited high-resolution color graded photos"
+      ],
+      "deliverables": [
+        "Custom velvet luxury photobook album",
+        "All master RAW & processed digital files",
+        "Mini pocket family albums",
+        "Signature framed portrait for living room"
+      ],
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "srv-2",
+      "slug": "wedding-cinematography",
+      "title": "Wedding Cinematography",
+      "category": "cinematography",
+      "shortDescription": "Ultra-high-definition cinematic wedding films with Hollywood color grading, emotional drone cinematography, and audio mastering.",
+      "fullDescription": "Experience your wedding like a motion picture film. We deploy dual full-frame cinema cameras, gimbal stabilizers, 4K drones, and multi-channel wireless audio to produce breathtaking wedding teasers and full-length cinematic documentaries.",
+      "heroImage": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹45,000",
+      "features": [
+        "4K 60fps slow-motion cinema rigs",
+        "Cinematic sound design & ceremony vows capture",
+        "Same-Day edit highlight reel option",
+        "Licensed music soundtrack scoring"
+      ],
+      "deliverables": [
+        "3-5 minute viral Instagram teaser",
+        "40-60 minute comprehensive cinematic film",
+        "Raw uncompressed footage on custom metal drive",
+        "4K master streaming link for family"
+      ],
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "srv-3",
+      "slug": "pre-wedding-photography",
+      "title": "Pre-Wedding Photography",
+      "category": "pre_wedding",
+      "shortDescription": "Romantic scenic destination shoots, fairytale couple themes, and cinematic concepts tailored to your personal chemistry.",
+      "fullDescription": "Celebrate your courtship with breathtaking pre-wedding photographs in scenic natural vistas, heritage palaces, or intimate rustic outdoor settings with multiple wardrobe changes and styling assistance.",
+      "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹20,000",
+      "features": [
+        "Choice of multiple picturesque locations",
+        "Up to 4 designer wardrobe changes",
+        "Creative direction & romantic pose guidance",
+        "Sunset golden hour & twilight smoke concepts"
+      ],
+      "deliverables": [
+        "30 retouched magazine-grade couple portraits",
+        "Pre-wedding music video highlight (2 mins)",
+        "Digital wedding invitation motion poster",
+        "Large canvas display print for reception entry"
+      ],
+      "active": true,
+      "order": 3
+    },
+    {
+      "id": "srv-4",
+      "slug": "candid-photography",
+      "title": "Candid Photography",
+      "category": "candid",
+      "shortDescription": "Unposed, natural moments, spontaneous laughter, and pure heartfelt emotion documented with stealth prime lenses.",
+      "fullDescription": "Candid photography is the soul of true storytelling. Our candid specialists blend into the crowd to preserve genuine, unprompted expressions, playful glances, and joyful tears that posed shots cannot replicate.",
+      "heroImage": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹22,000",
+      "features": [
+        "Fast f/1.2 & f/1.4 prime lens optics",
+        "Discreet non-intrusive shooting style",
+        "Expertise in challenging banquet low-light",
+        "Natural skin tone preservation"
+      ],
+      "deliverables": [
+        "Curated candid story gallery",
+        "Fine art retouched prints",
+        "Fast 48-hour social media preview pack"
+      ],
+      "active": true,
+      "order": 4
+    },
+    {
+      "id": "srv-5",
+      "slug": "haldi-mehendi-photography",
+      "title": "Haldi & Mehendi Photography",
+      "category": "events",
+      "shortDescription": "Vibrant yellow florals, turmeric splashes, intricate henna artistry, and high-energy dhol dance rituals.",
+      "fullDescription": "Pre-wedding ceremonies are packed with energetic colors and playful family banter. We capture the vivid yellow marigolds, turmeric showers, intricate mehendi palm patterns, and energetic dance numbers with vivid saturation.",
+      "heroImage": "https://images.unsplash.com/photo-1587271407850-8d438ca9fdf2?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹15,000",
+      "features": [
+        "Color-isolated color science",
+        "Detail shots of bridal jewelry & mehendi lines",
+        "Slow-motion water & turmeric splash captures",
+        "Fun family flash mobs and dhol dances"
+      ],
+      "deliverables": [
+        "150+ color-graded photographs",
+        "Reels-ready 9:16 vertical video edits",
+        "High-definition online gallery"
+      ],
+      "active": true,
+      "order": 5
+    },
+    {
+      "id": "srv-6",
+      "slug": "engagement-photography",
+      "title": "Engagement Photography",
+      "category": "wedding",
+      "shortDescription": "Ring ceremony exchanges, stage entries, couple portraits, and celebratory family toasts captured with grace.",
+      "fullDescription": "Mark the official beginning of your union with graceful engagement photography. We cover everything from the stage backdrop, ring exchange, family felicitations, to dedicated romantic couple portraits.",
+      "heroImage": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹18,000",
+      "features": [
+        "Stage lighting and flash synchronization",
+        "Macro ring photography with jewelry details",
+        "Grand entry & pyrotechnics coverage"
+      ],
+      "deliverables": [
+        "Complete event documentation",
+        "Mini keepsake album",
+        "Social media teaser"
+      ],
+      "active": true,
+      "order": 6
+    },
+    {
+      "id": "srv-7",
+      "slug": "birthday-event-photography",
+      "title": "Birthday & Event Photography",
+      "category": "events",
+      "shortDescription": "First birthdays, milestone celebrations, anniversaries, retirement galas, and community festivals.",
+      "fullDescription": "Every celebration deserves vibrant documentation. We photograph cake cutting ceremonies, guest greetings, festive decor, kids entertainment, and cheerful family group portraits.",
+      "heroImage": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹8,000",
+      "features": [
+        "Kids dynamic movement tracking",
+        "Balloon decor & thematic table framing",
+        "Instant group portraits"
+      ],
+      "deliverables": [
+        "All event photos in high resolution",
+        "Curated highlight collage",
+        "Fast digital delivery"
+      ],
+      "active": true,
+      "order": 7
+    },
+    {
+      "id": "srv-8",
+      "slug": "baby-photography",
+      "title": "Baby & Newborn Photography",
+      "category": "portrait",
+      "shortDescription": "Safe, warm studio newborn sessions, cute toddler milestones, cake smashes, and maternity glow sessions.",
+      "fullDescription": "Gentle, temperature-controlled studio shoots designed with utmost care for infants and toddlers. Featuring sanitized wraps, handcrafted wooden props, creative themes, and whimsical cake smash sets.",
+      "heroImage": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹7,500",
+      "features": [
+        "Sanitized organic props & soft wraps",
+        "Natural diffused softbox lighting (no harsh flashes)",
+        "Cake smash thematic setup included"
+      ],
+      "deliverables": [
+        "Artistic retouched baby portraits",
+        "Handmade wooden photo frame",
+        "Digital family keepsake album"
+      ],
+      "active": true,
+      "order": 8
+    },
+    {
+      "id": "srv-9",
+      "slug": "portrait-studio-photography",
+      "title": "Portrait & Studio Photography",
+      "category": "portrait",
+      "shortDescription": "Professional studio portraits, corporate executive headshots, matrimonial portfolios, and high-fashion modeling portfolios.",
+      "fullDescription": "Our in-house Gaindatola studio is equipped with multi-point Elinchrom strobe lighting, seamless background paper sweeps, and beauty dishes to create striking portraits.",
+      "heroImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹3,000",
+      "features": [
+        "Professional hair & wardrobe consultation",
+        "Tethered shooting with live monitor review",
+        "High-end frequency separation skin retouching"
+      ],
+      "deliverables": [
+        "5 fully retouched commercial headshots",
+        "Web & print optimized file formats",
+        "LinkedIn and matrimonial sized exports"
+      ],
+      "active": true,
+      "order": 9
+    },
+    {
+      "id": "srv-10",
+      "slug": "professional-videography",
+      "title": "Professional Videography",
+      "category": "cinematography",
+      "shortDescription": "Commercial promo videos, documentary coverage, dance performances, school events, and social media reels.",
+      "fullDescription": "Complete video production capabilities including 4K video recording, multi-track audio capture, motorized slider moves, and expert post-production editing for businesses, artists, and families.",
+      "heroImage": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹12,000",
+      "features": [
+        "3-axis motorized gimbal stabilization",
+        "Lavalier wireless microphone systems",
+        "Multi-camera live switching capability"
+      ],
+      "deliverables": [
+        "Full HD / 4K master video",
+        "YouTube & Instagram tailored exports"
+      ],
+      "active": true,
+      "order": 10
+    },
+    {
+      "id": "srv-11",
+      "slug": "photo-album-designing",
+      "title": "Photo Album Designing",
+      "category": "printing_gifts",
+      "shortDescription": "Custom handcrafted photobooks, non-tearable metallic paper albums, acrylic glass covers, and leatherette boxes.",
+      "fullDescription": "Transform your raw photos into an exquisite coffee table book. Our graphic designers craft elegant, uncluttered layouts printed on premium lustre, metallic, or velvet touch photographic sheets with lifetime binding guarantees.",
+      "heroImage": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹6,500",
+      "features": [
+        "Flush mount seamless panoramic spreads",
+        "Choice of acrylic, wooden, or Italian leather covers",
+        "Waterproof & UV-protected pages"
+      ],
+      "deliverables": [
+        "Master physical luxury album",
+        "Velvet protective briefcase / box",
+        "Digital PDF replica of album"
+      ],
+      "active": true,
+      "order": 11
+    },
+    {
+      "id": "srv-12",
+      "slug": "photo-printing-framing",
+      "title": "Photo Printing & Framing",
+      "category": "printing_gifts",
+      "shortDescription": "High-definition large format photo printing, canvas gallery wraps, synthetic and wooden frames in all sizes.",
+      "fullDescription": "Premium archival printing from 4x6 inch table frames up to 40x60 inch museum canvas wraps. We offer a large variety of frames including classic teakwood, ornate gold leaf, modern matte black, and frameless acrylic blocks.",
+      "heroImage": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹499",
+      "features": [
+        "Epson 12-color archival pigment inks",
+        "Acid-free mount boards and shatterproof acrylic glass",
+        "Heavy duty hanging hardware included"
+      ],
+      "deliverables": [
+        "Ready-to-hang framed wall art",
+        "Safely bubble wrapped packaging"
+      ],
+      "active": true,
+      "order": 12
+    },
+    {
+      "id": "srv-13",
+      "slug": "personalized-gifts",
+      "title": "Personalized Gifts – Mugs, T-Shirts, Keyrings",
+      "category": "printing_gifts",
+      "shortDescription": "Sublimation printing on ceramic mugs, custom graphic T-shirts, acrylic LED keychains, photo pillows, and wooden plaques.",
+      "fullDescription": "Surprise your loved ones with customized gifts crafted right at our Gaindatola workshop. High-durability sublimation ensures vivid colors that never fade through washing or daily use.",
+      "heroImage": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹249",
+      "features": [
+        "Microwave & dishwasher safe magic mugs",
+        "100% combed cotton breathable photo T-shirts",
+        "Laser engraved wooden desktop mementos"
+      ],
+      "deliverables": [
+        "Custom gift-boxed products",
+        "Quick 24-hour turnaround for urgent gifts"
+      ],
+      "active": true,
+      "order": 13
+    },
+    {
+      "id": "srv-14",
+      "slug": "flex-banner-printing",
+      "title": "Flex & Banner Printing",
+      "category": "commercial",
+      "shortDescription": "Outdoor weather-resistant flex banners, star flex, vinyl stickers, roll-up standees, and political/event hoardings.",
+      "fullDescription": "High-speed solvent and eco-solvent printing for commercial advertisements, shop signboards, stage backdrops, village announcements, and festival pandals with rich outdoor color longevity.",
+      "heroImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹12 / sq.ft",
+      "features": [
+        "High-tensile tear-resistant media",
+        "Eyelets, brass rings, and pocket reinforcement",
+        "Eco-solvent odorless indoor options"
+      ],
+      "deliverables": [
+        "Folded/rolled banner with grommets",
+        "Installation support available on request"
+      ],
+      "active": true,
+      "order": 14
+    },
+    {
+      "id": "srv-15",
+      "slug": "id-card-visiting-card-designing",
+      "title": "ID Card & Visiting Card Designing",
+      "category": "commercial",
+      "shortDescription": "PVC smart ID cards for schools & businesses, lanyard printing, premium matte/gloss visiting cards, and embossed foil cards.",
+      "fullDescription": "Professional corporate identity printing. We design and manufacture durable thermal transfer PVC cards with barcodes and QR codes, alongside premium 350 GSM spot UV and golden foil visiting cards.",
+      "heroImage": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹450 / 100 pcs",
+      "features": [
+        "Durable scratch-proof PVC plastic",
+        "Custom printed satin lanyards with metal dog hooks",
+        "Fast batch printing for institutions"
+      ],
+      "deliverables": [
+        "Packaged card sets with badge holders",
+        "Digital print-ready vector artwork"
+      ],
+      "active": true,
+      "order": 15
+    },
+    {
+      "id": "srv-16",
+      "slug": "graphic-designing",
+      "title": "Graphic Designing",
+      "category": "commercial",
+      "shortDescription": "Creative brand logos, social media posters, wedding invitation cards, flyers, and digital marketing banners.",
+      "fullDescription": "Our creative design desk produces arresting visual graphics. Whether you need a wedding invitation caricature, restaurant menu, political poster, or brand identity, we deliver modern aesthetics in Hindi and English.",
+      "heroImage": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=1200&q=80",
+      "startingPrice": "₹500",
+      "features": [
+        "Original vector concepts",
+        "Multilingual Hindi & Chhattisgarhi typography",
+        "Unlimited design revisions until satisfaction"
+      ],
+      "deliverables": [
+        "Vector AI, EPS, SVG master files",
+        "Print-ready CMYK PDFs and RGB web images"
+      ],
+      "active": true,
+      "order": 16
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "p-1",
+      "title": "The Royal Varmala Exchange",
+      "category": "wedding",
+      "imageUrl": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "landscape",
+      "featured": true,
+      "eventDate": "2026-02-14",
+      "clientNames": "Aarav & Priyanka",
+      "exif": {
+        "camera": "Sony Alpha 7 IV",
+        "lens": "FE 85mm F1.4 GM",
+        "focalLength": "85mm",
+        "aperture": "f/1.6",
+        "shutterSpeed": "1/320s",
+        "iso": "400",
+        "location": "Heritage Palace Mandap"
+      },
+      "order": 1
+    },
+    {
+      "id": "p-2",
+      "title": "Golden Sunset Solitude",
+      "category": "pre_wedding",
+      "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "portrait",
+      "featured": true,
+      "eventDate": "2026-01-20",
+      "clientNames": "Rohan & Shreya",
+      "exif": {
+        "camera": "Sony Alpha 7S III",
+        "lens": "FE 24-70mm F2.8 GM II",
+        "focalLength": "35mm",
+        "aperture": "f/2.8",
+        "shutterSpeed": "1/800s",
+        "iso": "160",
+        "location": "Riverside Hills"
+      },
+      "order": 2
+    },
+    {
+      "id": "p-3",
+      "title": "Golden Turmeric Laughter",
+      "category": "haldi",
+      "imageUrl": "https://images.unsplash.com/photo-1587271407850-8d438ca9fdf2?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "landscape",
+      "featured": true,
+      "eventDate": "2026-02-12",
+      "clientNames": "Ritika & Family",
+      "exif": {
+        "camera": "Canon EOS R5",
+        "lens": "RF 50mm F1.2L USM",
+        "focalLength": "50mm",
+        "aperture": "f/1.8",
+        "shutterSpeed": "1/1000s",
+        "iso": "200",
+        "location": "Courtyard Garden"
+      },
+      "order": 3
+    },
+    {
+      "id": "p-4",
+      "title": "Intricate Bridal Henna Lines",
+      "category": "mehendi",
+      "imageUrl": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "square",
+      "featured": false,
+      "eventDate": "2026-02-11",
+      "clientNames": "Sneha & Sahil",
+      "exif": {
+        "camera": "Sony Alpha 7 IV",
+        "lens": "FE 90mm F2.8 Macro G OSS",
+        "focalLength": "90mm",
+        "aperture": "f/3.2",
+        "shutterSpeed": "1/250s",
+        "iso": "320",
+        "location": "Gaindatola Suite"
+      },
+      "order": 4
+    },
+    {
+      "id": "p-5",
+      "title": "The Emotional Vidai Tear",
+      "category": "candid",
+      "imageUrl": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "portrait",
+      "featured": true,
+      "eventDate": "2026-01-28",
+      "clientNames": "Dev & Pooja",
+      "exif": {
+        "camera": "Sony Alpha 7 IV",
+        "lens": "FE 135mm F1.8 GM",
+        "focalLength": "135mm",
+        "aperture": "f/1.8",
+        "shutterSpeed": "1/400s",
+        "iso": "800",
+        "location": "Grand Entrance"
+      },
+      "order": 5
+    },
+    {
+      "id": "p-6",
+      "title": "Ring of Eternal Promises",
+      "category": "engagement",
+      "imageUrl": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "landscape",
+      "featured": false,
+      "eventDate": "2026-01-10",
+      "clientNames": "Kunal & Megha",
+      "exif": {
+        "camera": "Sony Alpha 7S III",
+        "lens": "FE 24-70mm F2.8 GM II",
+        "focalLength": "50mm",
+        "aperture": "f/2.8",
+        "shutterSpeed": "1/200s",
+        "iso": "500",
+        "location": "Royal Banquet Hall"
+      },
+      "order": 6
+    },
+    {
+      "id": "p-7",
+      "title": "Innocence in Slumber",
+      "category": "baby",
+      "imageUrl": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "portrait",
+      "featured": true,
+      "eventDate": "2026-02-05",
+      "clientNames": "Little Vihaan",
+      "exif": {
+        "camera": "Canon EOS R6",
+        "lens": "RF 85mm F2 Macro IS STM",
+        "focalLength": "85mm",
+        "aperture": "f/2.2",
+        "shutterSpeed": "1/160s",
+        "iso": "100",
+        "location": "Capture Studio Floor"
+      },
+      "order": 7
+    },
+    {
+      "id": "p-8",
+      "title": "Studio Elegance & Modern Gaze",
+      "category": "portrait",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "portrait",
+      "featured": true,
+      "eventDate": "2026-02-18",
+      "clientNames": "Ananya S.",
+      "exif": {
+        "camera": "Sony Alpha 7 IV",
+        "lens": "FE 85mm F1.4 GM",
+        "focalLength": "85mm",
+        "aperture": "f/2.0",
+        "shutterSpeed": "1/200s",
+        "iso": "100",
+        "location": "Capture Studio Darkroom"
+      },
+      "order": 8
+    },
+    {
+      "id": "p-9",
+      "title": "First Birthday Celebration Joy",
+      "category": "birthday",
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "landscape",
+      "featured": false,
+      "eventDate": "2026-01-15",
+      "clientNames": "Aarohi Birthday",
+      "exif": {
+        "camera": "Sony Alpha 7 IV",
+        "lens": "FE 35mm F1.4 GM",
+        "focalLength": "35mm",
+        "aperture": "f/2.0",
+        "shutterSpeed": "1/320s",
+        "iso": "400",
+        "location": "Town Club Pavilion"
+      },
+      "order": 9
+    },
+    {
+      "id": "p-10",
+      "title": "Whispering Winds of Love",
+      "category": "couple",
+      "imageUrl": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1400&q=85",
+      "aspectRatio": "landscape",
+      "featured": true,
+      "eventDate": "2026-01-05",
+      "clientNames": "Vikram & Radhika",
+      "exif": {
+        "camera": "Sony Alpha 7S III",
+        "lens": "FE 16-35mm F2.8 GM",
+        "focalLength": "24mm",
+        "aperture": "f/2.8",
+        "shutterSpeed": "1/640s",
+        "iso": "200",
+        "location": "Gaindatola Lake Shore"
+      },
+      "order": 10
+    }
+  ],
+  "packages": [
+    {
+      "id": "pkg-1",
+      "name": "Silver Celebration Package",
+      "tagline": "Ideal for engagement, birthday, anniversary, or intimate family rituals.",
+      "price": "₹18,000",
+      "priceNumeric": 18000,
+      "category": "Events & Functions",
+      "duration": "1 Full Day / Event",
+      "deliverables": [
+        "1 Senior Candid Photographer + 1 Traditional Videographer",
+        "All high-resolution edited photos on USB drive",
+        "Full HD edited ceremony video (30-45 mins)",
+        "1 Custom 30-page premium photo album (12x18 size)"
+      ],
+      "highlights": [
+        "Budget friendly",
+        "Quick 7-day photo preview",
+        "Direct WhatsApp support"
+      ],
+      "isPopular": false,
+      "active": true
+    },
+    {
+      "id": "pkg-2",
+      "name": "Gold Wedding Elegance",
+      "tagline": "Comprehensive coverage for Haldi, Mehendi, Sangeet & Main Wedding Day.",
+      "price": "₹55,000",
+      "priceNumeric": 55000,
+      "category": "Weddings",
+      "duration": "2 Full Days Coverage",
+      "deliverables": [
+        "2 Candid Photographers + 2 Traditional Photographers",
+        "2 Cinema Videographers with motorized gimbals",
+        "4K Drone aerial coverage for baraat & grand entry",
+        "1 Master Acrylic Photobook (40 sheets, 250+ photos)",
+        "2 Mini parent replica photobooks",
+        "Cinematic teaser film (3-5 mins) + Full movie (60-90 mins)"
+      ],
+      "highlights": [
+        "Most Popular Choice",
+        "Drone Included",
+        "Luxury Acrylic Cover Album"
+      ],
+      "isPopular": true,
+      "active": true
+    },
+    {
+      "id": "pkg-3",
+      "name": "Royal Diamond Cinematic",
+      "tagline": "The ultimate royal experience for couples who demand international cinema standards.",
+      "price": "₹95,000",
+      "priceNumeric": 95000,
+      "category": "Royal Weddings",
+      "duration": "3 Full Days Coverage",
+      "deliverables": [
+        "Pre-wedding scenic shoot (complimentary included)",
+        "4 Photographers (including master wedding artist)",
+        "3 4K Cinema Videographers with live LED screen switcher",
+        "Full drone squad coverage with licensed pilot",
+        "2 Ultra-luxury Velvet & Italian Leather photobooks",
+        "Same-Day Edit highlight reel for wedding reception",
+        "Large framed canvas gallery portrait (30x40 inch)"
+      ],
+      "highlights": [
+        "Includes Free Pre-Wedding",
+        "Same Day Edit",
+        "Zero Compromise Quality"
+      ],
+      "isPopular": false,
+      "active": true
+    },
+    {
+      "id": "pkg-4",
+      "name": "Pre-Wedding Romantic Dream",
+      "tagline": "Scenic cinematic couple shoot with wardrobe support and drone video.",
+      "price": "₹22,000",
+      "priceNumeric": 22000,
+      "category": "Couple Shoots",
+      "duration": "1 Full Day (Dawn to Dusk)",
+      "deliverables": [
+        "2 Senior fashion & candid photographers",
+        "1 4K Drone & gimbal cinema videographer",
+        "Up to 3 location stops & 4 wardrobe changes",
+        "35 Magazine-grade retouched photos",
+        "2-3 minute viral pre-wedding teaser film",
+        "Digital wedding invitation motion graphic poster"
+      ],
+      "highlights": [
+        "Golden hour lighting specialists",
+        "Drone aerials included",
+        "Pose guidance"
+      ],
+      "isPopular": false,
+      "active": true
+    },
+    {
+      "id": "pkg-5",
+      "name": "Studio Portrait & Maternity Session",
+      "tagline": "Creative indoor studio lighting for baby milestones, maternity, and portraits.",
+      "price": "₹6,500",
+      "priceNumeric": 6500,
+      "category": "Studio Shoots",
+      "duration": "2-3 Hours In Studio",
+      "deliverables": [
+        "Sanitized props, backdrops, and theme styling",
+        "15 high-retouch fine art digital portraits",
+        "1 Handcrafted wooden tabletop frame (8x12 inch)",
+        "Private online preview gallery"
+      ],
+      "highlights": [
+        "Comfortable air-conditioned studio",
+        "Gentle infant handling",
+        "Fast delivery"
+      ],
+      "isPopular": false,
+      "active": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "clientName": "Aarav & Priyanka Sahu",
+      "eventType": "Royal Wedding & Reception",
+      "eventDate": "February 2026",
+      "rating": 5,
+      "comment": "Capture Studio team was phenomenal! The 3D cinematic teaser they created for our wedding felt like a Bollywood movie. Our family in Gaindatola and Raipur cannot stop praising the photo quality and album finish.",
+      "location": "Gaindatola",
+      "active": true
+    },
+    {
+      "id": "t-2",
+      "clientName": "Er. Kunal Verma",
+      "eventType": "Pre-Wedding & Engagement",
+      "eventDate": "January 2026",
+      "rating": 5,
+      "comment": "The team made us feel so comfortable during our pre-wedding shoot. The lighting, drone angles, and natural candid moments were captured with such elegance. Truly the best photography studio in our region.",
+      "location": "Rajnandgaon District",
+      "active": true
+    },
+    {
+      "id": "t-3",
+      "clientName": "Dr. Shalini Deshmukh",
+      "eventType": "Baby Milestone & Studio Shoot",
+      "eventDate": "December 2025",
+      "rating": 5,
+      "comment": "Very patient and caring team with my 6-month-old baby girl. The studio props were clean, warm, and the resulting photo album is a priceless treasure for our family. Highly recommended!",
+      "location": "Ambagarh Chowki",
+      "active": true
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "b-1",
+      "slug": "essential-tips-for-planning-indian-wedding-photography",
+      "title": "10 Essential Tips to Get Flawless Indian Wedding Photographs",
+      "category": "Wedding Photography Tips",
+      "readTime": "5 min read",
+      "excerpt": "How to coordinate mandap lighting, allocate ceremony time, and coordinate with your photography crew for unforgettable memories.",
+      "content": "Planning an Indian wedding is a beautiful whirlwind of traditions, rituals, and family gatherings. To ensure every sacred moment is captured with cinematic brilliance, coordination between the couple, decor designers, and your photography team is key.\n\n1. Prioritize Warm, Diffused Mandap Lighting\nAvoid direct overhead green or harsh red spotlights on the mandap. Soft golden-warm lighting illuminates Indian bridal makeup and traditional jewelry naturally without harsh eye shadows.\n\n2. Schedule Dedicated 30 Minutes Before Baraat\nHave the bride and groom dressed 30 minutes before the baraat arrives. This provides quiet time for magazine-style solo bridal portraits without the rush of ceremony guests.\n\n3. Keep the Mandap Perimeter Open\nRequest that key family elders sit comfortably while leaving a 6-foot corridor around the havan kund so candid photographers can move quietly to frame the pheras and sindoor ritual.\n\n4. Trust the Candid Process\nThe most emotional photos are those where you forget the camera exists. Laugh heartily, hug your loved ones, and let the Capture Studio team document the real emotions as they unfold.",
+      "imageUrl": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-02-10",
+      "author": "Capture Studio Editorial Team",
+      "published": true
+    },
+    {
+      "id": "b-2",
+      "slug": "romantic-pre-wedding-shoot-locations-chhattisgarh",
+      "title": "Top Scenic Pre-Wedding Shoot Ideas in Chhattisgarh",
+      "category": "Pre-Wedding Ideas",
+      "readTime": "4 min read",
+      "excerpt": "Discover idyllic lakes, sunrise hilltops, and rustic heritage backdrops perfect for cinematic couple stories.",
+      "content": "A pre-wedding shoot allows couples to express their distinct chemistry before the bustling wedding week begins. Our region boasts scenic waterfalls, lush green paddy horizons, and historic temples that provide unmatched cinematic depth.\n\nWhen planning your pre-wedding shoot:\n- Opt for sunrise or sunset \"golden hour\" shoots when the sun creates romantic warm rim lights.\n- Bring two contrasting wardrobes: one traditional ethnic attire and one chic contemporary look.\n- Incorporate personal props: acoustic guitars, vintage scooters, or matching sneakers to tell your real personal story.",
+      "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-01-25",
+      "author": "Chief Cinematographer",
+      "published": true
+    },
+    {
+      "id": "b-3",
+      "slug": "choosing-the-right-photo-album-paper-and-binding",
+      "title": "A Guide to Archival Wedding Photobooks & Acrylic Covers",
+      "category": "Album Designing",
+      "readTime": "3 min read",
+      "excerpt": "Why paper quality, waterproof coatings, and flush mount lay-flat bindings matter for preserving your family history.",
+      "content": "Digital files can easily be misplaced across hard drives, but a handcrafted physical photobook remains the true centerpiece of your family home for decades.\n\nLearn the difference between standard paper and archival metallic velvet sheets:\n- Metallic paper gives vibrant contrast to jewelry, gold embroidery, and evening lighting.\n- Velvet matte paper prevents fingerprint smudges and offers a sophisticated fine-art feel.\n- Acrylic glass covers provide modern clarity with lifetime UV protection against fading.",
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-01-12",
+      "author": "Master Bookbinder",
+      "published": true
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bkg-1793709742159",
+      "enquiryNumber": "CS-452097",
+      "customerName": "Rohit Verma",
+      "mobile": "+919876543210",
+      "whatsapp": "+919876543210",
+      "email": "",
+      "serviceId": "custom",
+      "serviceTitle": "Wedding Photography",
+      "eventDate": "2026-12-15",
+      "eventLocation": "Gaindatola Community Hall",
+      "eventType": "Special Event",
+      "referenceImageUrls": [],
+      "status": "new",
+      "internalNotes": [
+        {
+          "id": "note-1793709742159",
+          "text": "Booking enquiry submitted through Capture Studio website.",
+          "createdAt": "2026-11-03T12:42:22.159Z",
+          "author": "System"
+        }
+      ],
+      "createdAt": "2026-11-03T12:42:22.159Z",
+      "updatedAt": "2026-11-03T12:42:22.159Z",
+      "whatsappSent": false
+    },
+    {
+      "id": "bkg-1",
+      "enquiryNumber": "CS-948123",
+      "customerName": "Aman Chandrakar",
+      "mobile": "+91 9827182910",
+      "whatsapp": "919827182910",
+      "email": "aman.c@gmail.com",
+      "serviceId": "wedding-photography",
+      "serviceTitle": "Wedding Photography & Cinematography",
+      "eventDate": "2026-11-28",
+      "eventLocation": "Gaindatola Main Palace Hall",
+      "eventType": "Wedding",
+      "packageId": "pkg-2",
+      "packageName": "Gold Wedding Elegance",
+      "estimatedBudget": "₹60,000",
+      "additionalRequirements": "Need 4K drone coverage for baraat and same-day teaser edit if possible.",
+      "status": "new",
+      "internalNotes": [
+        {
+          "id": "n-1",
+          "text": "Initial inquiry received via website. WhatsApp message sent with package brochure.",
+          "createdAt": "2026-11-03T09:30:00Z",
+          "author": "Admin"
+        }
+      ],
+      "createdAt": "2026-11-03T09:30:00Z",
+      "updatedAt": "2026-11-03T09:30:00Z",
+      "whatsappSent": true
+    },
+    {
+      "id": "bkg-2",
+      "enquiryNumber": "CS-839201",
+      "customerName": "Pooja Dewangan",
+      "mobile": "+91 9425183921",
+      "whatsapp": "9425183921",
+      "email": "pooja.dewangan@yahoo.com",
+      "serviceId": "pre-wedding-photography",
+      "serviceTitle": "Pre-Wedding Photography",
+      "eventDate": "2026-12-05",
+      "eventLocation": "Sunrise Lake & Riverside Hills",
+      "eventType": "Pre-Wedding",
+      "packageId": "pkg-4",
+      "packageName": "Pre-Wedding Romantic Dream",
+      "estimatedBudget": "₹25,000",
+      "additionalRequirements": "We want 3 costume changes including traditional Chhattisgarhi attire and western formal.",
+      "status": "approved",
+      "internalNotes": [
+        {
+          "id": "n-2",
+          "text": "Client approved shoot date. Advance booking deposit received.",
+          "createdAt": "2026-11-02T14:15:00Z",
+          "author": "Admin"
+        }
+      ],
+      "createdAt": "2026-11-02T14:15:00Z",
+      "updatedAt": "2026-11-02T16:00:00Z",
+      "whatsappSent": true
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enq-1",
+      "name": "Suresh Patel",
+      "phone": "+91 9753123456",
+      "email": "sureshpatel@gmail.com",
+      "serviceInterest": "Photo Album Designing & Framing",
+      "message": "Hello, I have my wedding photos from last year on a pen drive. Can you design a luxury acrylic album and 2 large wall frames?",
+      "status": "new",
+      "createdAt": "2026-11-03T08:00:00Z"
+    }
+  ],
+  "payments": []
+}
